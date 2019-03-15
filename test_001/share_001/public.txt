@@ -1,2 +1,2 @@
-this should create a conflict (created from the external repo)
+change from the internal repo
 change from the external repo
